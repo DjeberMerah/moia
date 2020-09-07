@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jasper">
+    <CLASSES>
+      <root url="jar:///usr/local/sicstus4.4.1/lib/sicstus-4.4.1/bin/jasper.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

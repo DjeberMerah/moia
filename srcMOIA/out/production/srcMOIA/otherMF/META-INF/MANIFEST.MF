@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: Engine
+Class-Path: /usr/local/sicstus4.4.1/lib/sicstus-4.4.1/bin/jasper.jar
+	
